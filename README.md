@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align="center">Sapere aude</h2>
 
-<!--
-**khaos77/khaos77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NNVrFKZF3s61W/giphy.gif" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+Dare to know things through reason, dare yourself to know the truth deeply.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+- At the present time, I am studying python and C;
+    - Python at IFPB and C by myself;
+- By now, I have a basic knowlage at C# and python;
+
+
+## contact
+
+discord: https://discordapp.com/users/881378253540048906
+<!--START_SECTION:waka-->
+
