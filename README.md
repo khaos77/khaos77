@@ -9,8 +9,8 @@ Dare to know things through reason, dare yourself to know the truth deeply.
 </div>
 
 ##
-- At the present time, I am studying python and C;
-    - Python at IFPB and C by myself;
+- At the present time, I am studying python;
+    - Python at IFPB and by myself;
 - By now, I have a basic knowlage at C# and python;
 
 
