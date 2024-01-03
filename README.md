@@ -9,10 +9,11 @@ Dare to know things through reason, dare yourself to know the truth deeply.
 </div>
 
 ##
-- At the present time, I am studying python;
-    - Python at IFPB and by myself;
-- By now, I have a basic knowlage at C# and python;
+Hello, I'm Khaos! Currently a beginner, taking tiny baby steps in studying Python.
 
+:black_heart: I chose this name as a representation of my current state of chaos while seeking my true self and path in this chaotic world. It also reflects my deep appreciation for chaos theory.
+
+👩🏻‍💻👨‍🎓Studying Computer Engineering at IFPB Campus in Campina Grande.
 
 ## contact
 
