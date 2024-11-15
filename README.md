@@ -10,7 +10,8 @@ Dare to know things through reason, dare yourself to know the truth deeply.
 
 ##
 Hello, I'm Khaos! 
-Currently a beginner, taking tiny baby steps in studying Python.
+
+Currently a beginner and curious about the way things work on backstage.
 
 :black_heart: I chose this name as a representation of my current state of chaos while seeking my true self and path in this chaotic world. It also reflects my deep appreciation for mathematical chaos theory.
 
